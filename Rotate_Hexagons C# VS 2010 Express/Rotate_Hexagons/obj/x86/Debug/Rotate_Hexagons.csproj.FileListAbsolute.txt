@@ -1,0 +1,27 @@
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Rotate_Hexagons\bin\Debug\Rotate_Hexagons.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Rotate_Hexagons\bin\Debug\Rotate_Hexagons.pdb
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Rotate_Hexagons\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Rotate_Hexagons\obj\x86\Debug\Rotate_Hexagons.Form1.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Rotate_Hexagons\obj\x86\Debug\Rotate_Hexagons.Properties.Resources.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Rotate_Hexagons\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Rotate_Hexagons\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Rotate_Hexagons\obj\x86\Debug\Rotate_Hexagons.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Rotate_Hexagons\obj\x86\Debug\Rotate_Hexagons.pdb
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Rotate_Hexagons\Rotate_Hexagons\obj\x86\Debug\Rotate_Hexagons.exe
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Rotate_Hexagons\Rotate_Hexagons\obj\x86\Debug\Rotate_Hexagons.pdb
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Rotate_Hexagons\Rotate_Hexagons\bin\Debug\Rotate_Hexagons.exe
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Rotate_Hexagons\Rotate_Hexagons\bin\Debug\Rotate_Hexagons.pdb
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Rotate_Hexagons\Rotate_Hexagons\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Rotate_Hexagons\Rotate_Hexagons\obj\x86\Debug\Rotate_Hexagons.Form1.resources
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Rotate_Hexagons\Rotate_Hexagons\obj\x86\Debug\Rotate_Hexagons.Properties.Resources.resources
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Rotate_Hexagons\Rotate_Hexagons\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Rotate_Hexagons\Rotate_Hexagons\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Rotate_Hexagons\Rotate_Hexagons\obj\x86\Debug\Rotate_Hexagons.exe
+C:\Documents and Settings\Admin\Рабочий стол\Rotate_Hexagons\Rotate_Hexagons\obj\x86\Debug\Rotate_Hexagons.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Rotate_Hexagons\Rotate_Hexagons\bin\Debug\Rotate_Hexagons.exe
+C:\Documents and Settings\Admin\Рабочий стол\Rotate_Hexagons\Rotate_Hexagons\bin\Debug\Rotate_Hexagons.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Rotate_Hexagons\Rotate_Hexagons\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\Rotate_Hexagons\Rotate_Hexagons\obj\x86\Debug\Rotate_Hexagons.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Rotate_Hexagons\Rotate_Hexagons\obj\x86\Debug\Rotate_Hexagons.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\Rotate_Hexagons\Rotate_Hexagons\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Rotate_Hexagons\Rotate_Hexagons\obj\x86\Debug\GenerateResource.write.1.tlog
